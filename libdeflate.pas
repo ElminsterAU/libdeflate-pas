@@ -910,5 +910,6 @@ end;
 
 {$endif USE_LIBDEFLATE_DLL}
 
+{$HINTS OFF}
 end.
 
